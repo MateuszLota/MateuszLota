@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Mateusz Lota</h1>
 <h3 align="center">A passionate in Testing</h3>
-img align="right" alt="Coding" width="400" src="https://tenor.com/pl/view/unit-testingnn-gif-22888563"
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mateuszlota&label=Profile%20views&color=0e75b6&style=flat" alt="mateuszlota" /> </p>
 
 - 🌱 I’m currently learning **Manual Testing in CodersLab**
 
