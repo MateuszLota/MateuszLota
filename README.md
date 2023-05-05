@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at https://github.com/MateuszLota/Projects
 
-- 📄 Know about my experiences [https://github.com/MateuszLota/Reasume/blob/main/1CV_MatL_Ang.pdf](https://github.com/MateuszLota/Reasume/blob/main/1CV_MatL_Ang.pdf)
+- 📄 Know about my experiences [https://github.com/MateuszLota/Reasume/blob/main/1CV_MatL_Ang.pdf](https://github.com/MateuszLota/Reasume/blob/main/CV_MatL.pdf)
 
 - ⚡ Fun fact **I love cycling**
 
